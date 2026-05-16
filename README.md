@@ -1,4 +1,4 @@
-<h1 align="center">Servus 👋, I'm Matheus Frazão</h1>
+<h1 align="center">Matheus Frazão</h1>
 <h3 align="center">Brazilian developer in Munich — crafting experiences with Flutter & Java, always building and open to new projects.</h3>
 
 
